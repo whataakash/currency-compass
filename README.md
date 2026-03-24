@@ -18,6 +18,8 @@ It combines real-time data with a clean, intuitive interface to make currency co
 ## 🔌 API Used
 
 This project uses the **Frankfurter API**:
+**Frankfurter API website URL**
+https://frankfurter.dev/v1/
 
 **Base URL:**
 https://api.frankfurter.dev/v1/
